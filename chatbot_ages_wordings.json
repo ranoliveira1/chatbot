@@ -1,0 +1,32 @@
+{
+    "0": {
+        "min_age": 0,
+        "max_age": 14,
+        "wording": "No way you are at University. But it's ok, let's suppose you are this age."
+    },
+    "1": {
+        "min_age": 15,
+        "max_age": 17,
+        "wording": "Wow! You're starting university at a young age! You must be really talented."
+    },
+    "2": {
+        "min_age": 18,
+        "max_age": 25,
+        "wording": "This is a fun age to start university at. I started when I was 18 years old."
+    },
+    "3": {
+        "min_age": 26,
+        "max_age": 35,
+        "wording": "Hmm, you're much older than I expected."
+    },
+    "4": {
+        "min_age": 36,
+        "max_age": 110,
+        "wording": "That's fantastic! It's never too late to learn and grow."
+    },
+    "5": {
+        "min_age": 111,
+        "max_age": 999999999,
+        "wording": "Really? Are you sure you're still alive?"
+    }
+}

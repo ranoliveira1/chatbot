@@ -1,0 +1,26 @@
+{
+    "0": {
+        "colour": "blue",
+	"wording": "Blue made me remeber our swimming pool. Be aware you're welcome to join our pool."
+	},
+    "1": {
+        "colour": "red",
+	"wording": "Red is the colour of Blood Donation. NHS will be happy if you join the donators team."
+	},
+    "2": {
+        "colour": "yellow",
+	"wording": "Yellow it the colour of gold. We have some financial short courses, if you're interested."
+	},
+    "3": {
+        "colour": "black",
+	"wording": "It's impressive how black clothes fit any situation."
+	},
+    "4": {
+        "colour": "grey",
+	"wording": "Perhapes you like the British weather, normally grey."
+	},
+    "5": {
+        "colour": "green",
+	"wording": "Nature, nature. Green is the nature colour. Why not join our Green movement society?!"
+	}
+}

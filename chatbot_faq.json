@@ -1,0 +1,116 @@
+{
+    "0": {
+        "question": "where is the fees office",
+        "response": "The fees office is located in the Blue building on Camp Lane. There you can find all about fees",
+        "key_words": [
+            "fee",
+            "office"
+        ],
+        "related_words": [
+            "fee",
+            "office",
+            "tax",
+            "much",
+            "price"
+        ],
+        "related_words_weight": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "1": {
+        "question": "who can help with curriculum form",
+        "response": "You can speak to your course advisor or an Orientation Leader.",
+        "key_words": [
+            "curriculum",
+            "vitae",
+            "cv"
+        ],
+        "related_words": [
+            "curriculum",
+            "vitae",
+            "cv",
+            "advise",
+            "advisor",
+            "advice",
+            "orientation"
+        ],
+        "related_words_weight": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "2": {
+        "question": "where can someone find out more about student accommodation",
+        "response": "The SRC can help you with that.",
+        "key_words": [
+            "student",
+            "accommodation"
+        ],
+        "related_words": [
+            "student",
+            "accommodation"
+        ],
+        "related_words_weight": [
+            1,
+            1
+        ]
+    },
+    "3": {
+        "question": "what clubs does the University offer",
+        "response": "The University offers a wide range of clubs. You can talk about it to you course's secretary.",
+        "key_words": [
+            "club"
+        ],
+        "related_words": [
+            "club",
+            "offer",
+            "find",
+            "information"
+        ],
+        "related_words_weight": [
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    "4": {
+        "question": "which courses should someone have here",
+        "response": "You can talk to an Orientation Leader or your course advisor. They know all about our courses.",
+        "key_words": [
+            "course"
+        ],
+        "related_words": [
+            "course",
+            "offer"
+        ],
+        "related_words_weight": [
+            1,
+            1
+        ]
+    },
+    "5": {
+        "question": "who is the student mentor",
+        "response": "You can find out all about mentoring reporting to Room 100.",
+        "key_words": [
+            "mentor"
+        ],
+        "related_words": [
+            "mentor",
+            "mentoring"
+        ],
+        "related_words_weight": [
+            1,
+            1
+        ]
+    }
+}
